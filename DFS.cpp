@@ -1,4 +1,3 @@
-```C++
 #include <bits/stdc++.h>
 #define ll long long
 #define pb push_back
@@ -103,18 +102,3 @@ int main()
         cout<<"The grapg is not cycled" nn;
 
 }
-
-/*
-9 9
-1 2
-1 3
-1 4
-4 6
-4 5
-5 7
-7 9
-1 8
-8 9
-
-*/
-```
