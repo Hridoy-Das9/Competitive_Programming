@@ -1,3 +1,6 @@
+<h3>Algorithm : DFS </h3>
+
+```c++
 #include <bits/stdc++.h>
 #define ll long long
 #define pb push_back
@@ -102,3 +105,4 @@ int main()
         cout<<"The grapg is not cycled" nn;
 
 }
+```
