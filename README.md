@@ -16,8 +16,8 @@
 <details>
   <summary>DFS</summary>
   <ol>
-    <li>Problem:  Is A Graph Cycle Or Not ?</li>
-    <ul><li>Solution: <a href="./DFS.cpp">Implementation</a></li>
+    <li>Problem:  Is A Graph Cycle Or Not(Undirected) ?</li>
+    <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Graph/Undirected%20graph%20cycle%20ditection.md">Implementation</a></li>
     </ul>
   </ol>
 </details>
