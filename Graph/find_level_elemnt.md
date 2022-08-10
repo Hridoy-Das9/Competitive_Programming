@@ -1,3 +1,4 @@
+```cpp
 #include <bits/stdc++.h>
 #define ll long long
 #define pb push_back
@@ -93,3 +94,4 @@ int main()
         print(cnt);
     cout << cnt[lev[x]] - 1 nn;
 }
+```
