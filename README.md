@@ -28,8 +28,11 @@
     <li>Problem:  <a href="https://codeforces.com/problemset/problem/580/C">Kefa and Park</a> (CF)</li>
      <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Graph/Kefa%20and%20Park_CF.md">Implementation</a></li>
     </ul>
-     <li>Problem:  <a https://codeforces.com/problemset/problem/1726/C"Balanced Bracket Sequence</a> (CF)</li>
-     <ul><li>Solution: <a https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Graph/Component_similar.md">Implementation</a></li>
+     <li>Problem:  <a href="https://codeforces.com/problemset/problem/1726/C">Balanced Bracket Sequence</a> (CF)</li>
+     <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Graph/Component_similar.md">Implementation</a></li>
+    </ul>
+     <li>Problem:  <a href="https://codeforces.com/contest/1676/problem/G">White-Black Balanced Subtrees</a> (CF)</li>
+     <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Graph/White-Black%20Balanced%20Subtrees.md">Implementation</a></li>
     </ul>
   </ol>
 </details>
