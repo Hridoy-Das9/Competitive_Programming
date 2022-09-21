@@ -22,11 +22,14 @@
      <li>Problem:  Is A Graph Cycle Or Not(Directed) ?</li>
     <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Graph/Directed%20graph%20cycle%20ditection.md">Implementation</a></li>
     </ul>
-    <li>Problem:  <a href="https://lightoj.com/problem/back-to-underworld">Back to Underworld</a></li>
+    <li>Problem:  <a href="https://lightoj.com/problem/back-to-underworld">Back to Underworld</a>(Loj)</li>
     <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Graph/Back%20to%20Underworld.md">Implementation</a></li>
     </ul>
-    <li>Problem:  <a href="https://codeforces.com/problemset/problem/580/C">Kefa and Park</a></li>
+    <li>Problem:  <a href="https://codeforces.com/problemset/problem/580/C">Kefa and Park</a> (CF)</li>
      <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Graph/Kefa%20and%20Park_CF.md">Implementation</a></li>
+    </ul>
+     <li>Problem:  <a https://codeforces.com/problemset/problem/1726/C"Balanced Bracket Sequence</a> (CF)</li>
+     <ul><li>Solution: <a https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Graph/Component_similar.md">Implementation</a></li>
     </ul>
   </ol>
 </details>
