@@ -1,6 +1,7 @@
 <h3>Problem:<a href="https://lightoj.com/problem/points-in-segments" > Points in segment </a> </h3>
 
 ```C++
+
 #include <bits/stdc++.h>
 #define ll long long
 #define pb push_back
@@ -88,5 +89,6 @@ int main()
 1 1
 0 1
  */
+ 
  
 ```
