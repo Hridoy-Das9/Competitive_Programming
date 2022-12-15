@@ -42,8 +42,8 @@
     <li>Problem: <a href="https://lightoj.com/problem/points-in-segments">Point in segment </a></li>
     <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Binary%20Search/Points%20in%20Segments.md">Point in segment </a></li>
     </ul>
-     <li>Problem: <a href="https://lightoj.com/problem/intel-factor-factorization">Intelligent Factorial Factorization </a></li>
-    <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Number_Theory/Intelligent_Factorial_Factorization.md">Intelligent Factorial Factorization </a></li>
+     <li>Problem: <a href="https://codeforces.com/problemset/problem/1490/C">Sum of Cube </a></li>
+    <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Binary%20Search/Sum%20of%20Cube.md">Sum of cube </a></li>
     </ul>
     
   </ol>
