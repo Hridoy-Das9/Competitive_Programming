@@ -45,6 +45,9 @@
      <li>Problem: <a href="https://codeforces.com/problemset/problem/1490/C">Sum of Cube </a></li>
     <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Binary%20Search/Sum%20of%20Cube.md">Sum of cube </a></li>
     </ul>
+      <li>Problem: <a href="https://codeforces.com/contest/991/problem/C">Candels </a></li>
+    <ul><li>Solution: <a href="https://github.com/Hridoy-Das9/Competitive_Programming/blob/main/Binary%20Search/Candies%20.md">Candels </a></li>
+    </ul>
     
   </ol>
   
